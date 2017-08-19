@@ -1,0 +1,3 @@
+/home/adam/git/msp430f5529_projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/git/msp430f5529_projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adam/git/msp430f5529_projects/cmake-build-debug/CMakeFiles/msp430f5529_projects.dir
